@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "idx-edge": {
+      "type": "http",
+      "url": "https://stock.arjum.com/mcp",
+      "headers": {
+        "X-API-Key": "${IDX_EDGE_API_KEY}"
+      }
+    }
+  }
+}
